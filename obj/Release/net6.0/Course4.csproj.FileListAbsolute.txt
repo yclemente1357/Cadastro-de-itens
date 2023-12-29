@@ -1,0 +1,15 @@
+C:\Users\tocod\source\repos\Course4\Course4\bin\Release\net6.0\Course4.exe
+C:\Users\tocod\source\repos\Course4\Course4\bin\Release\net6.0\Course4.deps.json
+C:\Users\tocod\source\repos\Course4\Course4\bin\Release\net6.0\Course4.runtimeconfig.json
+C:\Users\tocod\source\repos\Course4\Course4\bin\Release\net6.0\Course4.dll
+C:\Users\tocod\source\repos\Course4\Course4\bin\Release\net6.0\Course4.pdb
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.csproj.AssemblyReference.cache
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.AssemblyInfoInputs.cache
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.AssemblyInfo.cs
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.csproj.CoreCompileInputs.cache
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.dll
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\refint\Course4.dll
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.pdb
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\Course4.genruntimeconfig.cache
+C:\Users\tocod\source\repos\Course4\Course4\obj\Release\net6.0\ref\Course4.dll
